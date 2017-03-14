@@ -19552,6 +19552,12 @@
      {}
     ]
    ],
+   "mozilla/resizeTo.html": [
+    [
+     "/_mozilla/mozilla/resizeTo.html",
+     {}
+    ]
+   ],
    "mozilla/response-data-brotli.htm": [
     [
      "/_mozilla/mozilla/response-data-brotli.htm",
@@ -30942,6 +30948,10 @@
   "mozilla/reparse_style_elements_ref.html": [
    "df273cf90396cc2d3d3159ce72176122ab9518e5",
    "support"
+  ],
+  "mozilla/resizeTo.html": [
+   "7baa224e1fefd5c288e5bf3a671bfdda13281e18",
+   "testharness"
   ],
   "mozilla/resources/background-green.css": [
    "bb230110dd1cf4647e020d7172bc375e972c7b41",
